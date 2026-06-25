@@ -1,3 +1,6 @@
+# git repositiry
+
+this is bug branch
 # Git repository
 
 this is feature branch
@@ -7,4 +10,3 @@ this is feature branch
 Repository for practicing Git workflowgit
 
 This is main branch
-git add readme.md
