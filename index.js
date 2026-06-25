@@ -1,1 +1,1 @@
-console.log("hi there, once upon a time...")
+console.log("Initializing Git repository...");
