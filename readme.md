@@ -1,3 +1,3 @@
-# story
+# Git Practice
 
-the story of the tree
+Repository for practicing Git workflowgit
